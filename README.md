@@ -7,7 +7,8 @@
 - i'm proficient in **SQL**,**MICROSOFT EXCEL**,**TABLEAU** and
 - have solid understanding about analytics techniques such as **DASHBOARD BUILDING**,
 - **REPORT WRITING**,**DATA MANIPULATING** e.t.c.
-- i have include variety of project that showcase my analytics skills.
+- My commitment to staying current with industry trends and my passion for turning data into actionable insight
+- drive my continue learning journey. Open to opportunities that allow me to contribute my skills .
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - python
